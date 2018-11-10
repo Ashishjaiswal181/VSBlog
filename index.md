@@ -6,8 +6,8 @@ Those days of my lilfe...
 </head>
 
 <body>
-~ <a href="https://www.facebook.com/profile.php?id=100004470360895">
-Ashish Kumar </a>
+<p id="image">~ <a href="https://www.facebook.com/profile.php?id=100004470360895">
+Ashish Kumar </a> </p>
 <br><br>
 <h1> Those days of my life... </h1>
 <br><br>
