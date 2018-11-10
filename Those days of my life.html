@@ -1,6 +1,3 @@
-<!doctype html>
-<html>
-
 <head>
 <title>
 Those days of my lilfe...
