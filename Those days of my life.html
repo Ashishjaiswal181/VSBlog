@@ -87,8 +87,8 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
 </p9>
 <br><br><br>
 <br>
-Comment: <br>
-<textarea class="comment" rows="10" cols="10"> </textarea> </br>
-<input type="submit" value="Publish"> </br>
+Comment:
+<textarea class="comment" rows="5" cols="40"> </textarea> </br>
+<input type="submit" value="Publish">
 <br>
 </body>
