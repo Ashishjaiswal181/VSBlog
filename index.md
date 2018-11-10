@@ -6,8 +6,8 @@ Those days of my lilfe...
 </head>
 
 <body>
-<p id="image">~ <a href="https://www.facebook.com/profile.php?id=100004470360895">
-Ashish Kumar </a> </p>
+<div id="image">~ <a href="https://www.facebook.com/profile.php?id=100004470360895">
+Ashish Kumar </a> </div>
 <br><br>
 <h1> Those days of my life... </h1>
 <br><br>
@@ -87,8 +87,9 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
 </p9>
 <br><br><br>
 <br>
-Comment:
-<textarea class="comment" rows="5" cols="40"> </textarea> </br>
-<input type="submit" value="Publish">
+Comment: <br>
+<textarea class="comment" rows="5" cols="40"> </textarea>
+<br>
+<input type="submit" value="Send>
 <br>
 </body>
