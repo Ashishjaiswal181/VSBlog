@@ -6,6 +6,8 @@ Those days of my lilfe...
 </head>
 
 <body>
+~ <a href="https://www.facebook.com/profile.php?id=100004470360895">
+Ashish Kumar </a>
 <br><br>
 <h1> Those days of my life... </h1>
 <br><br>
@@ -83,13 +85,10 @@ Bare again
 <p9>
 Years passed and we reached to the last years as a Victorian. We got bored of the school so much that we wanted to pass out as soon as possible but we also knew that we would meet our friends, we didn't think that we would ever miss the school (jail) all we cared was the friends (but the story is different now we miss the school and the days passed there it does not matter who we were with that place is what we miss, the perfect beauty, the nature, the calmness everything was so perfect, we had a peaceful life there). As the day was progressing we kept the seeing the calendar tree (the only maple tree in whole Darjeeling district and it is called the calendar tree because when we join the school it remains empty as we are then as we start getting involved in the school activities it starts getting leaves then comes the monsoon when it gets wet along with us, then comes the winter when comes our final exams and time for us to go back home and it sheds off its leaves). The calendar tree is one thing that keeps reminding about the time we are left in the school. We never felt such connection with the tree before but now it was different, everything was different, we were serious about the studies, we having last of everything, last tournament, last concert, last classes etc. It was very emotional year. During the monsoon we would bunk to the forest to eat the berries (yellow raspberries) that grew only during that time and had so much of the berries on each tree that we could fill out stomach fully but the tree would still have enough of berries for the next day. Everyone had a particular berry spot where they would go every year and when their stock gest over means everyone's stock is over then we would go deep into the forest to look for the left berries. The berries tasted like half ripen guava with a lot of water and small seeds made it crunchy. The taste is unforgettable, it grew on the tree with a lot of spines and we would get a lot of spines in our hand while plucking but it was always worth it. The rest of the year would go as usual with sentiments and emotions. Then came the last day of bonfire when we made a dummy of the headmaster to be burnt and had fun making that but when the time came to enjoy many people including me sat on the parapet staring at the juniors enjoying remembering the past 7 years and everything we did here together. Finally leaving the school was a lot harder than it had seemed to me when I saw my seniors crying when they left. 
 </p9>
-<br><br>
-By <a href="https://www.facebook.com/profile.php?id=100004470360895">
-Ashish Kumar </a><br>
+<br><br><br>
 <br>
 Comment: <br>
-<textarea class="comment" rows="20" cols="100"> </textarea> </br>
+<textarea class="comment" rows="10" cols="10"> </textarea> </br>
 <input type="submit" value="Publish"> </br>
 <br>
 </body>
-</html>
