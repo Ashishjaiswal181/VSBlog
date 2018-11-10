@@ -90,6 +90,6 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
 Comment: <br>
 <textarea class="comment" rows="5" cols="40"> </textarea>
 <br>
-<input type="submit" value="Send>
+<input type="submit" value="Send">
 <br>
 </body>
