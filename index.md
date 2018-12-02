@@ -87,9 +87,26 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
 </p9>
 <br><br><br>
 <br>
-Comment: <br>
+<!--Comment: <br>
 <textarea class="comment" rows="5" cols="40"> </textarea>
 <br>
 <input type="submit" value="Send">
-<br>
+<br> -->
+                        <iframe height="260"
+                                allowTransparency="true"
+                                frameborder="0"
+                                scrolling="no"
+                                style="width:100%;border:none"
+                                src="https://ashjai181.wufoo.com/embed/zgq00370t70b9r/">
+                          <a href="https://ashjai181.wufoo.com/forms/zgq00370t70b9r/">
+                            Fill out my Wufoo form!
+                          </a>
+                        </iframe>
+                                                  <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
+                            <span class="notranslate">
+                              Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.
+                            </span>
+                          </div>
+                                              
+
 </body>
