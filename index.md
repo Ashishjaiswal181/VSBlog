@@ -99,7 +99,8 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
                                 style="width:100%;border:none"
                                 src="https://ashjai181.wufoo.com/embed/zgq00370t70b9r/">
                           <a href="https://ashjai181.wufoo.com/forms/zgq00370t70b9r/">
-                            <!--Fill out my Wufoo form!
+			</iframe>
+                            <!-- Fill out my Wufoo form!
                           </a>
                         </iframe>
                                                   <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">
