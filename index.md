@@ -90,10 +90,9 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
 <iframe height="0"
     allowTransparency="true"
     frameborder="0"
-    width="0"
     scrolling="no"
     overflow:hidden
-    style="width:10%0;border:none"
+    style="width:100%;border:none"
     src="https://ashjai181.wufoo.com/embed/zgq00370t70b9r/">
 </iframe>                                             
 </body>
