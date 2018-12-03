@@ -94,5 +94,9 @@ Years passed and we reached to the last years as a Victorian. We got bored of th
     overflow:hidden
     style="width:100%;border:none"
     src="https://ashjai181.wufoo.com/embed/zgq00370t70b9r/">
-</iframe>                                             
+</iframe>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="ashish-kumar-837349ab"><a class="LI-simple-link" href='https://in.linkedin.com/in/ashish-kumar-837349ab?trk=profile-badge'>Ashish Kumar</a></div>
+                                             
 </body>
